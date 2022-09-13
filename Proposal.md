@@ -13,8 +13,7 @@
 
 ## Tools
 - Python : Data cleaning, data manipulation, Exploratory Data Analysis
-- Sklearn : Machine learning algorithms
-- XGBoost : Machine learning algorithms
+- Sklearn,XGBoost : Machine learning algorithms
 - Matplotlib, Seaborn, Plotly : Creating visuals for EDA
 ## MVP 
 - Create an accurate model that can predict the churn rate well enough and examine what features are the concerns of churning
