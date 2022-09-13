@@ -1,6 +1,6 @@
 # Churn Prediction Project Proposal
 ## Question/need
-- the purpose of this project is to tpredict whether a customer will change telecommunications provdier ,also known as "churning".
+- the purpose of this project is to predict whether a customer will change telecommunications provdier ,also known as "churning".
 - The telecom companies will be beneficial from exploring this project 
 
 ## Data Description
