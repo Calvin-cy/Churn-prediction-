@@ -20,7 +20,7 @@ A telecom company puts thousands of money on a direct marketing campaign to keep
 8. Fitting the training set into different algorithms, since the target variable is inbalanced, I tuned the class_weights into balanced 
 9. Compare the f1 score and accuracy of each model and find out the best model is XGBoost with 0.73 average f1 score and 0.94 average accuracy score
 <img width="469" alt="Screen Shot 2022-09-13 at 6 26 18 PM" src="https://user-images.githubusercontent.com/63031028/190038000-30a5d1a3-d238-4c2f-8265-8aa1c3d23456.png">
-tent.com/63031028/190037869-bf0e443d-6f66-4a84-9fc5-5da9ad1f22b0.png)
+
 
 10. Use optimal threshold function to find the best threshold for XGBoost
 11. Use XGBoost to fit the whole training dataset, get the top 10 feature importances 
